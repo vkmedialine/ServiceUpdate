@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<item>
+  <version>4.20.07.2023</version>
+  <url>https://vkmedialine.github.io/ServiceUpdate/ServiceCenter.zip</url>
+  <changelog>https://github.com/vkmedialine/ServiceUpdate/releases</changelog>
+  <mandatory>false</mandatory>
+</item>
