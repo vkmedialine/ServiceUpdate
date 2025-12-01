@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-  <version>4.25.15.32</version>
+  <version>4.25.16.34</version>
   <url>https://vkmedialine.github.io/ServiceUpdate/ServiceCenter.zip</url>
   <changelog>https://vkmedialine.github.io/ServiceUpdate/serviceCenter.html</changelog>
   <mandatory>true</mandatory>
 </item>
+
