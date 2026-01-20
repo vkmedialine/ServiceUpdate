@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-  <version>4.25.16.33</version>
-  <url>https://vkmedialine.github.io/ServiceUpdate/ServiceCenter.zip</url>
+  <version>4.25.17.34</version>
+  <!--<url>https://vkmedialine.github.io/ServiceUpdate/ServiceCenter.zip</url> -->
+  <url>https://github.com/vkmedialine/ServiceUpdate/releases/download/4.25.17.34/ServiceCenter.zip</url>
   <changelog>https://vkmedialine.github.io/ServiceUpdate/serviceCenter.html</changelog>
   <mandatory>true</mandatory>
 </item>
+
 
 
